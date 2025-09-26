@@ -1,0 +1,8 @@
+Iniciando o Log
+Programa iniciado
+Cadastro criado
+Pedido realizado
+ Finalizando uma comanda
+Cadastro criado
+Pedido realizado
+Alcool negado
